@@ -1,0 +1,3 @@
+/Users/rodrigosilva/Work/UBI/msc/1ano/2semestre/cgjd/final_project/final_project_cgjd/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.dir
+/Users/rodrigosilva/Work/UBI/msc/1ano/2semestre/cgjd/final_project/final_project_cgjd/build/_deps/glfw-subbuild/CMakeFiles/edit_cache.dir
+/Users/rodrigosilva/Work/UBI/msc/1ano/2semestre/cgjd/final_project/final_project_cgjd/build/_deps/glfw-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sat_tests.dir/src/test_sat.cpp.o CMakeFiles/sat_tests.dir/src/geometry/ConvexShape.cpp.o CMakeFiles/sat_tests.dir/src/physics/SAT.cpp.o -o sat_tests  _deps/glm-build/glm/libglm.a
